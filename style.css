@@ -1,0 +1,12 @@
+#upload_pdf{
+    border:solid 2px black;
+    border-radius: 10px;;
+}
+
+#query_box textarea{
+    border: solid 2px rgb(255, 100, 44) !important;
+}
+
+#answer_box textarea{
+    border: solid 2px rgb(255, 100, 44) !important;
+}
